@@ -1,0 +1,71 @@
+10
+
+FCAI-1
+Sohaila Abdelazim
+Dokki 120 street
+01033665544
+basic
+6000.000000
+
+FCAI-2
+Basmala Gad
+Dokki 119 street
+01033987524
+saving
+100000.000000 2000.000000
+
+FCAI-3
+Abdelrahman Alshoki
+Giza 220 street
+01167212139
+basic
+3000.000000
+
+FCAI-4
+ali
+helwan
+01032456789
+saving
+300000.000000 1000.000000
+
+FCAI-5
+noor
+cairo
+01123456789
+basic
+600026.000000
+
+FCAI-6
+ali
+germany
+01067212139
+saving
+3000000.000000 1000.000000
+
+FCAI-7
+hassan
+italy
+01032830769
+basic
+20000.000000
+
+FCAI-8
+ahmed
+cairo
+01236985214
+basic
+300000.000000
+
+FCAI-9
+Sama
+France
+01021215030
+saving
+100000000.000000 1000.000000
+
+FCAI-10
+omar
+1200.32
+01064548798
+basic
+1000000000.000000
